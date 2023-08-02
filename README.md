@@ -12,7 +12,7 @@ This is my QR code component project!
 
 ### Screenshot
 
-![](qr-code-component-main\qr-code-component-pic.png)
+![](qr-code-component-main/qr-code-component-pic.png)
 
 ### Links
 
